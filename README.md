@@ -1,6 +1,6 @@
 # Getting Started with Create React App
 
-# https://pixabay.com/ API was used for this project for fetching videos
+##https://pixabay.com/ API was used for this project for fetching videos
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
