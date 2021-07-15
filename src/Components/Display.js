@@ -20,7 +20,7 @@ import {
     Link,useParams
   } from "react-router-dom";
 
-  const API_KEY="22310446-1ec0174d78c9ac60bcce3f0e2";
+  const API_KEY="API_KEY";
   //function preventBack() {window.history.forward();}  setTimeout(preventBack(), 0);  window.onunload = function () {null};
 function Display() {
     const id=useParams();
